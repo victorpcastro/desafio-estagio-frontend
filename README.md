@@ -1,8 +1,5 @@
 <p align="center"><img src="https://www.nibo.com.br/logo-nibo.png" width="150" /></p>
-<h1 align="center">Desadio - Estágio Front-end</h1>
-
-
-<p align="center">Quer saber o por que vale a pena trabalhar no Nibo? <a href="https://tech.nibo.com.br">tech.nibo.com.br</a></p>
+<h1 align="center">Desafio - Estágio Front-end</h1>
 
 Olá!
 
